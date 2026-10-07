@@ -51,7 +51,7 @@
 
 ### 💼 Projetos em destaque
 
-- **[Personal Finance Tracker](https://github.com/vSant359/Personal-Finance-Tracker)**: aplicação para controle de finanças pessoais, com registro e acompanhamento de receitas e despesas.
+- **[Dashboard para vendas via WhatsApp](https://github.com/Vt-L4b/Dashboard-de-atendimento-via-whatsapp)**: Dashboard interativo em **Streamlit** para acompanhamento e análise de vendas e atendimentos de uma equipe de vendas pelo WhatsApp.
 - **[Virtual Tag](https://github.com/vSant359/Virtual-Tag)**: gerador de etiquetas de envio, pensado para automatizar uma tarefa manual e repetitiva.
 
 ---
